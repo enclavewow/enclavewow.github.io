@@ -16,10 +16,10 @@ timezone:
 
 title: Sanctum # the main title
 
-tagline:  # it will display as the sub-title
+tagline: A LGBTQIA+ friendly guild on Ashkandi-US (Horde) # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Sanctum, a horde LGBTQIA+ friendly guild on Ashkandi-US
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,19 +30,6 @@ github:
 
 twitter:
   username: twitter_username # change to your twitter username
-
-social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +60,7 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://i.gyazo.com/7cd72727521acad25112f9dc983831b0.webp
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
