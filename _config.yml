@@ -60,10 +60,10 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://i.gyazo.com/7cd72727521acad25112f9dc983831b0.webp
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/commons/sanctumlogo.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
