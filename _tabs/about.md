@@ -1,5 +1,5 @@
 ---
-title: Text and Typography
+title: About Us
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: cotes
 date: 2019-08-08 11:33:00 +0800
@@ -86,13 +86,15 @@ Moon
 {: .prompt-danger }
 <!-- markdownlint-restore -->
 
-## Tables
+## Current Leadership
 
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
+| Rank                     | Name          |
+| :--------------------------- | :--------------- |
+| Guild Master         | Kerry (@kerrykins)     |
+| Officer               | Thunder   |
+| Officer               | Clinic    |
+| Officer               | Kimberly 	|
+| Officer               | Baalyn   |
 
 ## Links
 
