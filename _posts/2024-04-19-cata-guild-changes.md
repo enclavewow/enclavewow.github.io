@@ -2,7 +2,7 @@
 title: Cataclysm Guild Rank Changes
 description: A summary of proposed guild changes for Cataclysm
 authors: [kerrykins]
-date: 2024-04-19 22:13:00 +0800
+date: 2024-04-17 22:13:00 +0800
 categories: [Cataclysm, Information]
 tags: [ranks, guild updates]
 pin: false
