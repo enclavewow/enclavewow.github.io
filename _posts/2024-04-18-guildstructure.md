@@ -20,7 +20,7 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 ### Guild Ranks 
 
 | Rank                 	     | Name          | Responsibilities |
-| :--------------------------- | :--------------- | ------: |
+| :--------------------------- | :--------------- | :------ |
 | Guild Master          | Kerry     | Recruitment |
 | Officer               | Thunder    | Guild Bank |
 | Officer               | Clinic    | Raid Lead |
