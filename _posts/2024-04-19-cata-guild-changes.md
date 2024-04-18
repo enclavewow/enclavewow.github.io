@@ -26,12 +26,9 @@ As part of our commitment to providing a successful and enjoyable raiding experi
 
 With the introduction of guild advancement and guild achievements, rank-and-file ranks (veteran, member, initiate) will be primarily based on activity level. 
 
-1. Veteran
-Members who have been active in the guild for at least 2 months and maintain regular activity (once every 5-7 days). Demotion to Member status occurs after 14 days of inactivity.
-2. Member
-Active members who engage with the guild at least once every 14 days. New Members automatically advance from Initiate after meeting initial activity requirements.
-3. Initiate
-New members of the guild who will be promoted to Member after being active once in the last 7 days and spending at least 7 days in the guild.
+1. Veteran: members who have been active in the guild for at least 2 months and maintain regular activity (once every 5-7 days). Demotion to Member status occurs after 14 days of inactivity.
+2. Member: active members who engage with the guild at least once every 14 days. New Members automatically advance from Initiate after meeting initial activity requirements.
+3. Initiate: new members of the guild who will be promoted to Member after being active once in the last 7 days and spending at least 7 days in the guild.
 
 ### Guardian
 ![Guardian Rank](/images/guardian-rank.png)
