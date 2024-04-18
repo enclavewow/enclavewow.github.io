@@ -10,6 +10,9 @@ math: true
 mermaid: true
 ---
 
+> These are proposed changes only. 
+{: .prompt-warning }
+
 With a new expansion comes an opportunity to restructure our guild to better suit the community. 
 
 ### Guild Rank Changes
