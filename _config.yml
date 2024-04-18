@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sanctum # the main title
+title: Enclave # the main title
 
-tagline: A LGBTQIA+ friendly guild on Ashkandi-US (Horde) # it will display as the sub-title
+tagline: A LGBTQIA+ friendly guild on Mankrik-US (Horde) # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Sanctum, a horde LGBTQIA+ friendly guild on Ashkandi-US
+  Enclave, a horde LGBTQIA+ friendly guild on Mankrik-US
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
