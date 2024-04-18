@@ -11,6 +11,6 @@ Our weekends are packed with social activities that are so much fun, they're alm
 
 ## CONTACT US
 Contact us on Discord. 
-Kerry (GM): @kerrykins 
+- Kerry (GM): @kerrykins 
 
 You will also find us on [Warcraft Logs (Classic)](https://classic.warcraftlogs.com/guild/id/696071).
