@@ -26,6 +26,7 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 | Officer               | Kimberly    |
 | Officer               | Baalyn    |
 
+- Raid/Role Leads: current leaders of a guild raid
 - Guardian*
 - Veterans Raiders: veterans raiding in the main progression roster (RSM)
 - Veterans: Active, long standing members in the guild 
