@@ -3,11 +3,22 @@
 icon: fas fa-info-circle
 order: 4
 ---
+title: About <Enclave>
+description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+author: Kerry
+date: 2024-04-18 11:33:00 +0800
+categories: [Information]
+tags: [aboutus]
+pin: true
+math: true
+mermaid: true
+image:
+  path: 
+  lqip: 
+  data:
+  alt: 
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-## Tables
+## Current Leadership
 
 | Rank                     | Name          | 
 | :--------------------------- | :--------------- |
