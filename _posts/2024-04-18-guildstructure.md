@@ -29,10 +29,20 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 | Raid/Role Leads          | Grovin     |
 |        | Mel     |
 
-Veterans Raiders
-Veterans
-Raiders
-Members
+
+| Rank                 	     | Name          |
+| :--------------------------- | :--------------- |
+| Guild Master          | Kerry     |
+| Officer               | Thunder    |
+| Officer               | Clinic    |
+| Officer               | Kimberly    |
+| Officer               | Baalyn    |
+
+- Guardian*
+- Veterans Raiders
+- Veterans
+- Raiders
+- Members
 
 
 ### Contacting An Officer
