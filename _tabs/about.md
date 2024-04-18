@@ -10,7 +10,7 @@ image:
   path: 
   lqip: 
   data:
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Test test
 ---
 
 ## Headings
