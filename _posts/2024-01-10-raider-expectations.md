@@ -5,7 +5,7 @@ authors: [kerrykins]
 date: 2024-01-05 22:13:00 +0800
 categories: [Raiding, Information]
 tags: [expectations]
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
@@ -13,7 +13,7 @@ mermaid: true
 As part of our commitment to providing a successful and enjoyable raiding experience for all members, we have set the following expectations for all raiders:
 
 ### Attendance
-Attendance: Maintain a minimum attendance rate of 65%. Consistent participation is crucial for our collective success in raids.
+Raiders need to maintain a minimum attendance rate of 65%. Consistent participation is crucial for our collective success in raids.
 
 ### Communication
 - Advance Notice for Absences: If you know you'll be absent, inform us as early as possible. This allows us to adjust our strategy and call upon substitutes if necessary.
