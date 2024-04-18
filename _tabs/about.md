@@ -95,6 +95,10 @@ Moon
 | Officer               | Clinic    |
 | Officer               | Kimberly 	|
 | Officer               | Baalyn   |
+| Guardian               |     |
+| Veteran             |     |
+| Member             |     |
+| Initiate             |     |
 
 ## Links
 
