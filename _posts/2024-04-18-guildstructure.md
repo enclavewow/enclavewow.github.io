@@ -19,7 +19,7 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 
 ### Guild Ranks 
 | Rank                      | Name          |
-| :--------------------------- | :--------------- | ------: |
+| :--------------------------- | :--------------- |
 | Guild Master          | Kerry     |
 |Officer          | Thunder     |
 |          | Clinic     |
