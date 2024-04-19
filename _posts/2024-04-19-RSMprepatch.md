@@ -25,6 +25,7 @@ You should be doing this through **[eightyupgrades](https://eightyupgrades.com/)
 For those that are unaware of this, we do a big decay between phases. 
 
 **What does this do?**
+
 We basically crunch all the numbers; we increase the elasticity of your PR. You retain your priority. However, each piece of gear you acquire or any EP you get will matter more. 
 
 For example, before the decay:
