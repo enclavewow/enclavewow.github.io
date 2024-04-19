@@ -23,7 +23,7 @@ Raiders need to maintain a minimum attendance rate of 65%. Consistent participat
 ### Respect 
 Treat all guild members with respect. Share your frustrations, concerns, and questions in a constructive and respectful manner. Our community thrives on mutual respect and support.
 
-All these expectations are an expected courtesy to our officers who volunteer significant time to organise and manage raids, ensuring that we can all enjoy our gaming experience. Extend common courtesy to them by keeping them informed. Do not leave your fellow raiders and officers wondering about your status - communication is essential.
+*All these expectations are an expected courtesy to our officers who volunteer significant time to organise and manage raids.* Extend common courtesy to them by keeping them informed. Do not leave your fellow raiders and officers wondering about your status - communication is essential.
 
 We understand that emergencies and unexpected situations occur. If you are unable to meet the above expectations due to unforeseen circumstances, please check in with us afterwards at your earliest convenience.
 
