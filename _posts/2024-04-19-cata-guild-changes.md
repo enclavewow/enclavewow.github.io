@@ -1,5 +1,5 @@
 ---
-title: Cataclysm Guild Rank Changes
+title: Cataclysm Guild Changes
 description: A summary of proposed guild changes for Cataclysm
 authors: [kerrykins]
 date: 2024-04-17 22:13:00 +0800
@@ -15,7 +15,7 @@ mermaid: true
 
 With a new expansion comes an opportunity to restructure our guild to better suit the community. 
 
-### Guild Rank Changes
+## Guild Rank Changes
 
 | Current               | Proposed         |
 | :--------------------------- | :--------------- |
@@ -40,3 +40,5 @@ All activity level changes will be tracked by an addon. Promotions/demotions wil
 _Summary of the new Guardian rank in the guild_
 
 Guardians are chosen by both officers and the community for their significant contributions to the social fabric of the guild. Guardians help maintain the wellbeing of members and lead by example.
+
+## Raiding Changes
