@@ -1,10 +1,10 @@
 ---
 title: Guild Structure
 description: Guild ranks, structure, and leadership
-author: kerrykins
-date: 2024-04-01 01:00:00 -0500
-categories: [Information]
-tags: [ranks]
+authors: [kerrykins,kimberly]
+date: 2024-04-19 01:00:00 -0500
+categories: [RSM]
+tags: [loot]
 pin: false
 math: true
 mermaid: true
@@ -13,42 +13,33 @@ mermaid: true
 ---
 
 
-### Officers
+### BiS Lists for Cata Prepatch (ICC/RS 25)
 
-Officers in **Enclave** are integral members who volunteer their time to keep the guild running smoothly, thereby ensuring everyone can enjoy the game and progress through content. They manage day-to-day operations, organise events, and support guild members, all without receiving any extra in-game perks. Officers are approachable and actively participate in guild discussions and decision-making processes. You may often see them on Discord during weekly meetings. Their commitment is to the guild's collective success and enjoyment.
+We will require RSM raiders to submit a new BiS list for the pre-patch. For warriors, paladins, shamans, druids, death knights, and hunters, please note that there is some penalty for wearing a different type of armour. Take note of that as you make your BiS lists. 
 
-### Guild Ranks 
+You should be doing this through **[eightyupgrades](https://eightyupgrades.com/)**. AFter you have made your BiS list, please send the link of it to Kim. 
 
-| Rank                 	     | Name          | Responsibilities |
-| :--------------------------- | :--------------- | :------ |
-| Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
-| Officer               | Thunder    | Guild Bank |
-| Officer               | Clinic    | Raid Lead |
-| Officer               | Kimberly    | Loot Master |
-| Officer               | Baalyn    | Community Engagement, Communications |
 
-- Raid/Role Leads: current leaders of a guild raid
-- Guardian*
-- Veterans Raiders: veterans raiding in the main progression roster (RSM)
-- Veterans: Active, long standing members in the guild 
-- Raiders: members raiding in the main progression roster (RSM)
-- Members
+### Phase Decay
 
-(*)Guardian rank will be introduced with the new expansion. 
+> An 80% decay will be applied when we hit pre-patch. 
+{: .prompt-warning }
 
-These ranks are expected to change when Cataclysm Classic launches. Head over to [Cataclysm Changes](https://enclavewow.github.io/categories/cataclysm/) category to see the latest updates. 
+For those that are unaware of this, we do a big decay between phases. 
 
-### Alts
+**What does this do?**
+We basically crunch all the numbers; we increase the elasticity of your PR. You retain your priority. However, each piece of gear you acquire or any EP you get will matter more. 
 
-We understand that you pay for your subscription and we respect your freedom to manage your alternate characters as you see fit. Sometimes, the spirit of our raids and guild activities may not always align with everyone's preferences, or you may wish to spend time gaming with other friends. Ultimately, your enjoyment of the game is paramount.
+For example, before the decay:
+>  You have 12000 EP and 5000 GP. Your PR is 2.4. 
 
-However, as a social guild, we thrive on mutual participation and engagement. Engaging with fellow guild members on Discord and showing that you value the community helps us to reciprocate in kind. Conversely, limited interaction - for example, only reaching out in guild chat when needing assistance - may affect how you are perceived within the guild, akin to being unguilded.
+After the decay:
+> You have 2400 EP and 1000 GP. Your PR remains 2.4
 
-Loyalty and respect form the bedrock of our guild culture. They are not automatically owed but are earned and can significantly enhance our collective experience when given and received appropriately. Our goal is to cultivate a community where everyone understands and values these principles, fostering not just progress in the game but also lasting friendships.
+However, the amount of EP you get and GP for each piece of gear does not change; each piece of gear and EP you get/earn will matter more after the phase decay. 
 
-By participating actively and valuing each other, we create an enriching environment that benefits all members. 
+For example, before the decay, getting a piece of gear worth 1000 GP:
+> You have 12000 EP and 5000 + 1000 GP. Your PR becomes 2. 
 
-### Contacting An Officer
-Feel free to reach out to any officer you feel comfortable with if you need to discuss issues or have concerns. Our officers are approachable and committed to fostering a supportive and positive guild culture. Keep us informed, be respectful, and help us maintain a supprotive and positive guild! 
-
-Please note, while any officer can assist you, some officers have specific roles, so responses may be delayed if your query is directed to an officer focused on another area of the guild. We encourage open communication and respect, as these are key to maintaining our vibrant community.
+After the decay:
+> You have 2400 EP and 1000 + 1000 GP. Your PR becomes 1.2. 
