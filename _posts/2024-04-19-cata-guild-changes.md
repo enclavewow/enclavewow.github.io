@@ -42,3 +42,6 @@ _Summary of the new Guardian rank in the guild_
 Guardians are chosen by both officers and the community for their significant contributions to the social fabric of the guild. Guardians help maintain the wellbeing of members and lead by example.
 
 ## Raiding Changes
+Unfortunately, the lack of information from Blizzard regarding raiding and loot makes it difficult to commit firmly to any changes. Until we receive information, the proposed restructuring of the guild will see multiple **team leads** leading either a 10-player or 25-player raid team. Opportunities to intersect, especially socially, between the teams will be provided every 2-3 weeks in the form of fun, socialising events. 
+
+Currently, we are in the process of polling our guildies interested in Cataclysm about their preferred type of raiding. 

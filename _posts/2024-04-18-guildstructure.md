@@ -5,7 +5,7 @@ author: kerrykins
 date: 2024-04-01 01:00:00 -0500
 categories: [Information]
 tags: [ranks]
-pin: true
+pin: false
 math: true
 mermaid: true
 

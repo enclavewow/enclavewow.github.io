@@ -16,7 +16,7 @@ We acknowledge and thank individuals involved in the guild's leadership in the p
 > Most of the past leadership are given the "Officer Emeritus" role as they exemplify the guild's values and foundational principles.
 {: .prompt-info }
 
-| Name                | Former Rank          |
+| Name                | Former Role          |
 | :--------------------------- | :--------------- |
 | Nishida         | Guild Master     |
 | Rumsey              | Guild Master    |
