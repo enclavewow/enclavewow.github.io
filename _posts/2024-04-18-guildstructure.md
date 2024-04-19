@@ -21,11 +21,11 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 
 | Rank                 	     | Name          | Responsibilities |
 | :--------------------------- | :--------------- | :------ |
-| Guild Master          | Kerry     | Recruitment |
+| Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
 | Officer               | Thunder    | Guild Bank |
 | Officer               | Clinic    | Raid Lead |
 | Officer               | Kimberly    | Loot Master |
-| Officer               | Baalyn    | Community Engagement |
+| Officer               | Baalyn    | Community Engagement, Communications |
 
 - Raid/Role Leads: current leaders of a guild raid
 - Guardian*
