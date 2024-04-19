@@ -2,7 +2,7 @@
 title: Past Leadership
 description: We acknowledge and thank individuals involved in the guild's leadership in the past. 
 author: kerrykins
-date: 2019-08-08 11:33:00 +0800
+date: 2024-04-01 00:00:00 -0500
 categories: [Information]
 tags: [rank, history]
 pin: false

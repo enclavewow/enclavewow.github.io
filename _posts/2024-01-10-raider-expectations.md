@@ -2,7 +2,7 @@
 title: Raider Expectations
 description: Raider Expectations
 authors: [kerrykins]
-date: 2024-01-05 22:13:00 +0800
+date: 2024-04-05 00:00:00 -0500
 categories: [Raiding, Information]
 tags: [expectations]
 pin: false

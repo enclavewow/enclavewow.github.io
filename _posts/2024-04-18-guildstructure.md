@@ -2,7 +2,7 @@
 title: Guild Structure
 description: Guild ranks, structure, and leadership
 author: kerrykins
-date: 2024-04-08 11:33:00 +0800
+date: 2024-04-01 00:00:00 -0500
 categories: [Information]
 tags: [ranks]
 pin: true
@@ -36,7 +36,7 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 
 (*)Guardian rank will be introduced with the new expansion. 
 
-These ranks are expected to change when Cataclysm Classic launches. 
+These ranks are expected to change when Cataclysm Classic launches. Head over to [Cataclysm Changes](https://enclavewow.github.io/categories/cataclysm/) category to see the latest updates. 
 
 ### Contacting An Officer
 Feel free to reach out to any officer you feel comfortable with if you need to discuss issues or have concerns. Our officers are approachable and committed to fostering a supportive and positive guild culture. Keep us informed, be respectful, and help us maintain a supprotive and positive guild! 
