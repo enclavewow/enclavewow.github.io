@@ -2,7 +2,7 @@
 title: Guild Structure
 description: Guild ranks, structure, and leadership
 author: kerrykins
-date: 2024-04-01 00:00:00 -0500
+date: 2024-04-01 01:00:00 -0500
 categories: [Information]
 tags: [ranks]
 pin: true
