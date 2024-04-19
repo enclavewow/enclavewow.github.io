@@ -3,7 +3,7 @@ title: RSM Changes for Cata Prepatch
 description: New BiS lists and decay for cata prepatch
 authors: [kerrykins,kimberly]
 date: 2024-04-19 00:00:00 -0500
-categories: [RSM]
+categories: [Wrath,Raiding,RSM]
 tags: [loot]
 pin: false
 math: true
