@@ -1,47 +1,42 @@
 ---
 title: Cataclysm Guild Changes
 description: A summary of proposed guild changes for Cataclysm
-authors: [kerrykins]
-date: 2024-04-17 22:13:00 +0800
-categories: [Cataclysm, Information]
-tags: [ranks, guild updates]
+authors: [kerrykins,kimberly]
+date: 2024-04-19 00:00:00 -0500
+categories: [RSM]
+tags: [loot]
 pin: false
 math: true
 mermaid: true
 ---
 
-> These are proposed changes only. 
+### BiS Lists for Cata Prepatch (ICC/RS 25)
+
+We will require RSM raiders to submit a new BiS list for the pre-patch. For warriors, paladins, shamans, druids, death knights, and hunters, please note that there is some penalty for wearing a different type of armour. Take note of that as you make your BiS lists. 
+
+You should be doing this through **[eightyupgrades](https://eightyupgrades.com/)**. AFter you have made your BiS list, please send the link of it to Kim. 
+
+
+### Phase Decay
+
+> An 80% decay will be applied when we hit pre-patch. 
 {: .prompt-warning }
 
-With a new expansion comes an opportunity to restructure our guild to better suit the community. 
+For those that are unaware of this, we do a big decay between phases. 
 
-## Guild Rank Changes
+**What does this do?**
+We basically crunch all the numbers; we increase the elasticity of your PR. You retain your priority. However, each piece of gear you acquire or any EP you get will matter more. 
 
-| Current               | Proposed         |
-| :--------------------------- | :--------------- |
-| Guild Master      | Guild Master   |
-| Officer       | Officer  |
-| Raid/Role Lead      | Team Lead   |
-| Veteran Raiders       | Guardian   |
-| Veterans      | Veteran   |
-| Raiders     | Member   |
-| Member | Initiate   |
+For example, before the decay:
+>  You have 12000 EP and 5000 GP. Your PR is 2.4. 
 
-With the introduction of guild advancement and guild achievements, rank-and-file ranks (veteran, member, initiate) will be primarily based on activity level. 
+After the decay:
+> You have 2400 EP and 1000 GP. Your PR remains 2.4
 
-1. Veteran: members who have been active in the guild for at least 2 months and maintain regular activity (once every 5-7 days). Demotion to Member status occurs after 14 days of inactivity.
-2. Member: active members who engage with the guild at least once every 14 days. New Members automatically advance from Initiate after meeting initial activity requirements.
-3. Initiate: new members of the guild who will be promoted to Member after being active once in the last 7 days and spending at least 7 days in the guild.
+However, the amount of EP you get and GP for each piece of gear does not change; each piece of gear and EP you get/earn will matter more after the phase decay. 
 
-All activity level changes will be tracked by an addon. Promotions/demotions will be largely automated as well. 
+For example, before the decay, getting a piece of gear worth 1000 GP:
+> You have 12000 EP and 5000 + 1000 GP. Your PR becomes 2. 
 
-### Guardian
-![Guardian Rank](/images/guardian-rank.png)
-_Summary of the new Guardian rank in the guild_
-
-Guardians are chosen by both officers and the community for their significant contributions to the social fabric of the guild. Guardians help maintain the wellbeing of members and lead by example.
-
-## Raiding Changes
-Unfortunately, the lack of information from Blizzard regarding raiding and loot makes it difficult to commit firmly to any changes. Until we receive information, the proposed restructuring of the guild will see multiple **team leads** leading either a 10-player or 25-player raid team. Opportunities to intersect, especially socially, between the teams will be provided every 2-3 weeks in the form of fun, socialising events. 
-
-Currently, we are in the process of polling our guildies interested in Cataclysm about their preferred type of raiding. 
+After the decay:
+> You have 2400 EP and 1000 + 1000 GP. Your PR becomes 1.2. 
