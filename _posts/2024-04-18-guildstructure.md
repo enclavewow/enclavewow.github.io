@@ -42,11 +42,11 @@ These ranks are expected to change when Cataclysm Classic launches. Head over to
 
 We understand that you pay for your subscription and we respect your freedom to manage your alternate characters as you see fit. Sometimes, the spirit of our raids and guild activities may not always align with everyone's preferences, or you may wish to spend time gaming with other friends. Ultimately, your enjoyment of the game is paramount.
 
-However, as a social guild, we thrive on mutual participation and engagement. Engaging with fellow guild members on Discord and showing that you value the community helps us to reciprocate in kind. Conversely, limited interaction - for example, only reaching out in guild chat when needing assistance - may affect how you are perceived within the guild, akin to being unguilded.
+However, as a social guild, we thrive on mutual participation and engagement. Engaging with fellow guild members on Discord and showing that you value the community helps us to reciprocate in kind. Conversely, limited interaction - for example, only reaching out in guild chat when needing assistance - may affect how you are perceived within the guild, even akin to being unguilded.
 
 Loyalty and respect form the bedrock of our guild culture. They are not automatically owed but are earned and can significantly enhance our collective experience when given and received appropriately. Our goal is to cultivate a community where everyone understands and values these principles, fostering not just progress in the game but also lasting friendships.
 
-By participating actively and valuing each other, we create an enriching environment that benefits all members. 
+tl;dr: you get from the guild what you put into the guild. 
 
 ### Contacting An Officer
 Feel free to reach out to any officer you feel comfortable with if you need to discuss issues or have concerns. Our officers are approachable and committed to fostering a supportive and positive guild culture. Keep us informed, be respectful, and help us maintain a supprotive and positive guild! 
