@@ -31,7 +31,7 @@ We understand that emergencies and unexpected situations occur. If you are unabl
 
 - Core Loot Manager
 - Weakauras
- - Fojji's T10 Pack and all its dependencies
- - Fojji's RS Pack
+	- Fojji's T10 Pack and all its dependencies
+	- Fojji's RS Pack
  
  DBM and/or BigWigs is not required. We recommend you disable them for ICC/RS bosses as it will conflict with Fojji's WA packs. 
