@@ -12,6 +12,12 @@ Our weekends are packed with social activities that are so much fun, they're alm
 ![Guild Photo 2024](/images/Groupphoto1.jpg)
 _Guild Photo in April 2024_
 
+![Guild Photo 2023](/images/Groupphoto2.jpg)
+_Guild Photo in October 2023_
+
+![Guild Photo 2023](/images/Groupphoto3.jpg)
+_Guild Photo in January 2023_
+
 ## CONTACT US
 Please contact us on Discord. 
 - Kerry (GM): @kerrykins 
