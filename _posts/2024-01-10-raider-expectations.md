@@ -3,8 +3,8 @@ title: Raider Expectations
 description: Raider Expectations
 authors: [kerrykins]
 date: 2024-04-05 00:00:00 -0500
-categories: [Wrath,Raiding]
-tags: [expectations]
+categories: [Wrath]
+tags: [expectations,raiding]
 pin: false
 math: true
 mermaid: true
