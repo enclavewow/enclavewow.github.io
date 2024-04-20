@@ -4,7 +4,7 @@ description: Learn more about our raids in the guild!
 authors: [kerrykins]
 date: 2024-04-19 00:00:00 -0500
 categories: [Wrath]
-tags: [raiding,RSM]
+tags: [raiding,rsm]
 pin: false
 math: true
 mermaid: true
