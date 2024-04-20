@@ -4,7 +4,7 @@ description: We acknowledge and thank individuals involved in the guild's leader
 author: kerrykins
 date: 2024-04-01 00:00:00 -0500
 categories: [Information]
-tags: [rank, history]
+tags: [ranks, history]
 pin: false
 math: true
 mermaid: true
