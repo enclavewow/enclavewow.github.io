@@ -18,16 +18,17 @@ Class discords are an invaluable source of information. For raiders, this *is* t
 
 | Class               | Link       |
 | :--------------------------- | :--------------- |
-|Death Knight          |     |
-|Druid          |    |
-|Hunter          |     |
+|Death Knight          |[Blight Club](https://discord.com/invite/worms)     |
+|Druid          | [Druid Classic](https://discord.com/invite/SMwmrBV)   |
+|Hunter          |[Classic Hunter Lodge](https://discord.com/invite/classichunter)     |
 |Mage          | [Mage Classic](https://discord.gg/QJgEDUW4qb)    |
-|Paladin          |     |
-|Priest          |      |
-|Shaman          |     |
-|Rogue        |     |
-|Warlock          |     |
-|Warrior       |     |
+|Paladin          |[Paladin Classic](https://discord.com/invite/Bqherze)     |
+|Priest          |[Priest Classic](https://discord.com/invite/MXPeww3)
+[Shadow Priest Classic](https://discord.gg/classicshadow)      |
+|Shaman          |[Shaman Classic](https://discord.com/invite/VvBwBu2)     |
+|Rogue        |[Rogue Classic](https://discord.com/invite/mkfKCBB)     |
+|Warlock          |[Warlock Classic](https://discord.com/invite/D6TrRkq)      |
+|Warrior       |[Fight Club](https://discord.gg/RbCZJtw)    |
 
 
 
