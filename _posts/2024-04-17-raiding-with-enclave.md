@@ -69,7 +69,7 @@ The rotating bench policy places fairness above raid composition when deciding w
 
 ## Licking the Lich King (ICC 10)
 
-**Licking the Lich King** is a *[semi-hardcore](https://enclavewow.github.io/posts/raidtype/#semi-hardcore)* 10-player progression raid team in the guild. It runs on Sundays 9:15pm-midnight ST.
+**Licking the Lich King** is a *[semi-hardcore](https://enclavewow.github.io/posts/raidtype/#semi-hardcore)* 10-player progression raid team in the guild. It runs on Sundays 9:15pm-midnight ST. 
 
 ### Progression Status (LLK)
 
