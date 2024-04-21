@@ -13,7 +13,7 @@ mermaid: true
 
 We acknowledge and thank individuals involved in the guild's leadership in the past. 
 
-> Most of the past leadership are given the "Officer Emeritus" role as they exemplify the guild's values and foundational principles.
+> Some of the past leadership are given the "Officer Emeritus" role as they remain active in the community, exemplify the guild's guiding principles, and are in good standing.
 {: .prompt-tip }
 
 | Name                | Former Role          |
