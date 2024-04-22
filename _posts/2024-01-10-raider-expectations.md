@@ -29,6 +29,9 @@ We understand that emergencies and unexpected situations occur. If you are unabl
 
 ### Required Addons
 
+> Required addons are only applicable to raiders in the [Ready Set Minions raid team](https://enclavewow.github.io/posts/raiding-with-enclave/#ready-set-minions-rsm).
+{: .prompt-warning }
+
 - Core Loot Manager
 - Weakauras
 	- Fojji's T10 Pack and all its dependencies
