@@ -38,3 +38,16 @@ We understand that emergencies and unexpected situations occur. If you are unabl
 	- Fojji's RS Pack
  
  DBM and/or BigWigs is not required. We recommend you disable them for ICC/RS bosses as it will conflict with Fojji's WA packs. 
+ 
+ ## What happens when expectations are not met?
+ The guiding principle of this guild has always been to treat each other with kindness, empathy, compassion, and effective communication. We expect that you communicate any updates to us in reasonable time. It is a team game and twenty-four others count on your presence. Know that we also understand that *life happens* - perhaps you had a rough day, something significant happened in your life, or any of the thousand other valid reasons. 
+ 
+ Not showing up to raid isn't necessarily the worst thing (unless it becomes a reoccuring issue). What is worse is that you don't show up, don't communicate it, and treat it as if nothing happened. 
+ 
+ Upon an unexpected event where raiders are late/absent, we will make efforts to contact raiders during raid and again (if we get no response) in a day or so. 
+ - Should we get no response by **Monday** of the following week, we will treat it as if you will not make it to raid that following week. No action beyond this will be taken as life happens. 
+ - Should we get no response nor action to communicate to us in **two weeks**, we will remove your spot from the roster. 
+ 
+Like all policies, this is a guideline; every person's situation is different and our officers are more than willing to help and listen. Some examples of exceptions include:
+- We may choose to hold roster spots for an extended period of time in extenuating circumstances.
+- We may apply more guild disciplinary actions if a raider continues to be disrespectful. 
