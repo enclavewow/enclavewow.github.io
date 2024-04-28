@@ -1,5 +1,5 @@
 ---
-title: Raiding in Cataclysm
+title: RSM (25-player) in Cataclysm
 description: A description of upcoming changes to raiding in the guild for the next patch!
 authors: [kerrykins]
 date: 2024-04-29 00:00:00 -0500

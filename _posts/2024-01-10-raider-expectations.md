@@ -41,7 +41,7 @@ We understand that emergencies and unexpected situations occur. If you are unabl
  
 ### Unmet Expectations
  
- The guiding principle of this guild has always been to treat each other with kindness, empathy, compassion, and effective communication. We expect that you communicate any updates to us in reasonable time. It is a team game and twenty-four others count on your presence. Know that we also understand that *life happens* - perhaps you had a rough day, something significant happened in your life, or any of the thousand other valid reasons. 
+ The guiding principles of this guild have always been to treat each other with kindness, empathy, compassion, and effective communication. We expect that you communicate any updates to us in reasonable time. It is a team game and twenty-four others count on your presence. Know that we also understand that *life happens* - perhaps you had a rough day, something significant happened in your life, or any of the thousand other valid reasons. 
  
  Not showing up to raid isn't necessarily the worst thing (unless it becomes a reoccuring issue). What is worse is that you don't show up, don't communicate it, and treat it as if nothing happened. 
  
