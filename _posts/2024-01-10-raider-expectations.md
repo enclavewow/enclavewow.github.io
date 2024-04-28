@@ -39,7 +39,7 @@ We understand that emergencies and unexpected situations occur. If you are unabl
  
  DBM and/or BigWigs is not required. We recommend you disable them for ICC/RS bosses as it will conflict with Fojji's WA packs. 
  
- ### Unmet Expectations
+### Unmet Expectations
  
  The guiding principle of this guild has always been to treat each other with kindness, empathy, compassion, and effective communication. We expect that you communicate any updates to us in reasonable time. It is a team game and twenty-four others count on your presence. Know that we also understand that *life happens* - perhaps you had a rough day, something significant happened in your life, or any of the thousand other valid reasons. 
  
