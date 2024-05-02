@@ -31,8 +31,22 @@ As we near May 20th (launching of Cataclysm Classic), more positions may be adde
 > To avoid information overload, we have provided a short, summarised version of the upcoming changes. If you wish to read the detailed version, continue scrolling down. 
 {: .prompt-tip }
 
+As we move into Cataclysm Classic, we're refining our approach to raiding to improve our effectiveness and team cohesion. Here’s what’s changing:
 
-
+**Expectations & Performance:**
+- The guild will adopt a semi-hardcore stance.
+- Raiders are expected to invest time in mastering their roles and strategies outside of scheduled raid times, aiming for a minimum of 8 hours per week, including 6 hours of raid time.
+- All DPS players should aim to perform within one standard deviation of the raid’s average DPS to maintain consistency.
+**Support & Feedback:**
+- Enhanced support systems including regular log reviews and one-on-one check-ins will help struggling raiders.
+- A new feedback system will be implemented during log review nights, allowing raiders to submit anonymous feedback.
+**Attendance & Loot Rules:**
+- A 75% attendance rate over eight weeks is required.
+- Initial loot distribution will be through SRs for the first 3 weeks, transitioning to EPGP thereafter.
+**Rotating Bench Policy:**
+- To accommodate our use of EPGP, the roster will include 28-30 raiders, with everyone except the raid leader being benched roughly every 6-9 weeks. Benched weeks do not count against attendance but won’t earn EP.
+**Monthly Log Reviews:**
+- On the last Thursday of each month, the team will gather for a log review session to discuss progress and issues.
 
 ## Detailed Description of Changes
 
