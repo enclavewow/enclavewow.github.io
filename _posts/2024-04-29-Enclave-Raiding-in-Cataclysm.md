@@ -58,7 +58,7 @@ As we move into Cataclysm Classic, we're refining our approach to raiding to imp
 
 WotLK has taught many lessons in raiding and guild leading. Lessons that we will put to pen and paper as we enter a new expansion.
 
-The above quote is not to imply that RSM was a failure. On the contrary, from the first iteration of the guild’s 25-player raid team to how it is at the end of Wrath, it was a monumental change. However, it is a a reminder that on the things we know we could’ve done better, now is the chance to do them better. 
+The above quote is not to imply that RSM was a failure. On the contrary, from the first iteration of the guild’s 25-player raid team to how it is at the end of Wrath, it was a monumental change. However, a new expansion means we can improve. 
 
 **Lesson 1**: Differing expectations amongst raiders leading to frustrations amongst players (e.g., performance)
 - Solution: Explicitly state the roster’s solutions for performance, attendance, and overall raider expectations (e.g., respect, communication). 
