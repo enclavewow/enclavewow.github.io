@@ -1,7 +1,7 @@
 ---
 title: Ready Set Minions (25-player) in Cataclysm
 description: A description of upcoming changes to raiding in the 25-player team in Cataclysm!
-authors: [kerrykins]
+authors: [kerrykins,anmorata]
 date: 2024-04-29 00:00:00 -0500
 categories: [Cata]
 tags: [raiding,RSM]
@@ -54,7 +54,7 @@ The above quote is not to imply that RSM was a failure. On the contrary, from th
 **Lesson 4**: Unclear location/place to provide feedback from the roster to the leaders
 - 	Solution: Part of the RSM raid requirements will be a log review night. Part of that session will be 	to go over anonymous feedback submitted by raiders. 
 
-### RSM-specific expectations
+### RSM-Specific Expectations
 
 Raiders are expected to follow guild-wide raiding expectations. In addition to general raid-wide raid expectations, RSM raiders are expected to:
 - Have an average to above knowledge of their class and spec. For instance, we should expect you to know what your stat priorities are for your class/spec.
