@@ -26,7 +26,7 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 | Officer               | Clinic    | Role Lead & Strategy |
 | Officer (outgoing)              | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
-| Officer (incoming)              | Anmorata    | Raid Lead |
+| *Officer (incoming)*              | *Anmorata*    | *Raid Lead* |
 
 
 - Raid/Role Leads: current leaders of a guild raid
