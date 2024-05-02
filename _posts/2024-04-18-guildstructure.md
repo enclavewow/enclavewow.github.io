@@ -22,10 +22,12 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 | Rank                 	     | Name          | Responsibilities |
 | :--------------------------- | :--------------- | :------ |
 | Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
-| Officer               | Thunder    | Guild Bank |
-| Officer               | Clinic    | Raid Lead |
-| Officer               | Kimberly    | Loot Master |
+| Officer (outgoing)               | Thunder    | Guild Bank |
+| Officer               | Clinic    | Role Lead & Strategy |
+| Officer (outgoing)              | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
+| Officer (incoming)              | Anmorata    | Raid Lead |
+
 
 - Raid/Role Leads: current leaders of a guild raid
 - Guardian*
@@ -34,7 +36,8 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 - Raiders: members raiding in the main progression roster (RSM)
 - Members
 
-(*)Guardian rank will be introduced with the new expansion. 
+> Guardian rank will be introduced with the new expansion. 
+{: .prompt-info }
 
 These ranks are expected to change when Cataclysm Classic launches. Head over to [Cataclysm Changes](https://enclavewow.github.io/categories/cataclysm/) category to see the latest updates. 
 
