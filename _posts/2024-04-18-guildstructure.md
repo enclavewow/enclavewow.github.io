@@ -29,17 +29,15 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 | *Officer (incoming)*              | *Anmorata*    | *Raid Lead* |
 
 
-- Raid/Role Leads: current leaders of a guild raid
+- Team Leads: current leaders of a guild raid
 - Guardian*
-- Veterans Raiders: veterans raiding in the main progression roster (RSM)
 - Veterans: Active, long standing members in the guild 
 - Raiders: members raiding in the main progression roster (RSM)
 - Members
+- Initiates
 
 > Guardian rank will be introduced with the new expansion. 
 {: .prompt-info }
-
-These ranks are expected to change when Cataclysm Classic launches. Head over to [Cataclysm Changes](https://enclavewow.github.io/categories/cataclysm/) category to see the latest updates. 
 
 ### Alts
 
