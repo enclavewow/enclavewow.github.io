@@ -146,4 +146,7 @@ Some examples of situations where the tank is not performing well:
 |4th week          |1 week notice|
 |5th week          |Move onto bench status (no exceptions – it’s been five weeks) |
 
+## Contingencies
+
+During the planning stages leading to Cataclysm, we've laid groundwork for splitting the guild into multiple **10-player** teams. Should a viable 25-player team fail to materialise after giving our best efforts due to reasons such as but not limited to: performance, roster, quality control, we will endeavour to pivot to 10-player teams so that all raiders can still raid with the guild. 
 
