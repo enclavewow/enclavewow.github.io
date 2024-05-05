@@ -13,3 +13,7 @@ order: 5
 | Officer (outgoing)              | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
 | *Officer (incoming)*              | *Anmorata*    | *Raid Lead* |
+
+### Meet Your Officers
+
+![Kimberly](/images/kimberly.jpg){: width="972" height="589" .w-50 .left}
