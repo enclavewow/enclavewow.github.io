@@ -20,9 +20,13 @@ order: 5
 
 Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
 
+&nbsp;
+
 ![Thunder](/images/thunder.jpg){: width="120" height="120" .left}
 
 **Thunder** is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
+
+&nbsp;
 
 ![Clinic](/images/clinic.jpg){: width="120" height="120" .left}
 
@@ -34,9 +38,11 @@ Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the na
 
 **Kimberly**, a founding member of our guild, sees herself as the guild’s mommy, a role she embraces wholeheartedly. She is fascinated with classic WoW, especially Seasons of Mastery, and is always ready to share her knowledge and nostalgia. Kimberly also delights the guild with her culinary creations, frequently posting pictures that tantalize the taste buds.
 
+&nbsp;
+
 ![Baalyn](/images/baalyn.jpg){: width="120" height="120" .left}
 
-**Baalyn**, a professional chef and our guild's culinary consultant, can make anyone hungry with just a conversation. He's claimed a permanent spot in our Discord's AFK channel, where he’s virtually always available. Having joined us during phase 3, Baalyn has quickly become a steadfast member, adding both flavor and laughter to our guild life.
+**Baalyn**, a professional chef and our guild's culinary consultant, can make anyone hungry with just a conversation. He's claimed a permanent spot in our Discord's AFK channel, where he’s virtually always available. Having joined us during phase 3, Baalyn has quickly become a steadfast member, adding both flavour and laughter to our guild life.
 
 &nbsp;
 
