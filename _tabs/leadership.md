@@ -28,6 +28,7 @@ Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the na
 
 **Clinic** is a talented voice actor whose dramatic flair enriches every guild raid. His encyclopedic knowledge of the game makes him the go-to person for any game-related questions. Known for his random facts and questions, Clinic keeps every conversation lively. A pioneer member of our guild, Clinic can level up a character from start to level cap in just two days.
 
+&nbsp;
 
 ![Kimberly](/images/kimberly.jpg){: width="120" height="120" .left}
 
@@ -37,6 +38,7 @@ Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the na
 
 **Baalyn**, a professional chef and our guild's culinary consultant, can make anyone hungry with just a conversation. He's claimed a permanent spot in our Discord's AFK channel, where he’s virtually always available. Having joined us during phase 3, Baalyn has quickly become a steadfast member, adding both flavor and laughter to our guild life.
 
+&nbsp;
 
 ![Anmorata](/images/anmo.jpg){: width="120" height="120" .left}
 
