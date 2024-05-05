@@ -8,11 +8,11 @@ order: 5
 | Rank                 	     | Name          | Responsibilities |
 | :--------------------------- | :--------------- | :------ |
 | Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
-| Officer (outgoing)               | Thunder    | Guild Bank |
+| Officer                | Thunder    | Guild Bank |
 | Officer               | Clinic    | Role Lead & Strategy |
-| Officer (outgoing)              | Kimberly    | Loot Master |
+| Officer               | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
-| *Officer (incoming)*              | *Anmorata*    | *Raid Lead* |
+| Officer (incoming)              | Anmorata    | Raid Lead |
 
 ### Meet Your Officers
 
