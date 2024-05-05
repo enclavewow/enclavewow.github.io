@@ -18,7 +18,7 @@ order: 5
 
 ![Kerry](/images/kerry.jpg){: width="120" height="120" .left}
 
-Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
+**Kerry** (they/them), our esteemed Guild Master, combines a passion for filet-o-fishes and all things Minions with a sharp wit fueled by punny jokes. As one of the earliest raiders and longest-standing members of the guild, Kerry’s leadership is deeply rooted in both experience and dedication. Known for a strong aversion to cheese and emphatic food opinions, Kerry advocates fervently for anti-capitalist principles, championing the redistribution of wealth both in-game and beyond.
 
 &nbsp;
 
@@ -48,4 +48,4 @@ Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the na
 
 ![Anmorata](/images/anmo.jpg){: width="120" height="120" .left}
 
-**Anmorata** (he/him), also known as Daddy Momo, plays a big, strong tank and is the newest officer of our guild. His skills at tanking are legendary — rumour has it he once took down the Lich King in a most unconventional setting. With his funny, caring, and charismatic nature, Anmorata is set to lead our raids starting in the Cataclysm expansion and is a cherished member of our community.
+**Anmorata** (he/him), also known as Daddy Momo, plays a big, strong tank and is the newest officer of our guild. His skills at tanking are legendary — rumour has it he once took down the Lich King in a most unconventional setting. With his funny, caring, and charismatic nature, Anmorata is set to lead our raid starting in Cataclysm and is a cherished member of our community.
