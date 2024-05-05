@@ -16,4 +16,4 @@ order: 5
 
 ### Meet Your Officers
 
-![Kimberly](/images/kimberly.jpg){: width="250" height="250" .w-50 .left}
+![Kimberly](/images/kimberly.jpg){: width="180" height="180" .w-50 .left}
