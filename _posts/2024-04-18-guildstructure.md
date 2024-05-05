@@ -17,20 +17,10 @@ mermaid: true
 
 Officers in **Enclave** are integral members who volunteer their time to keep the guild running smoothly, thereby ensuring everyone can enjoy the game and progress through content. They manage day-to-day operations, organise events, and support guild members, all without receiving any extra in-game perks. Officers are approachable and actively participate in guild discussions and decision-making processes. You may often see them on Discord during weekly meetings. Their commitment is to the guild's collective success and enjoyment.
 
-### Guild Ranks 
-
-| Rank                 	     | Name          | Responsibilities |
-| :--------------------------- | :--------------- | :------ |
-| Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
-| Officer (outgoing)               | Thunder    | Guild Bank |
-| Officer               | Clinic    | Role Lead & Strategy |
-| Officer (outgoing)              | Kimberly    | Loot Master |
-| Officer               | Baalyn    | Community Engagement, Communications |
-| *Officer (incoming)*              | *Anmorata*    | *Raid Lead* |
-
-
+- Guild Master
+- Officers
+- Guardian
 - Team Leads: current leaders of a guild raid
-- Guardian*
 - Veterans: Active, long standing members in the guild 
 - Raiders: members raiding in the main progression roster (RSM)
 - Members

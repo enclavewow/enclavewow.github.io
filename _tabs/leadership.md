@@ -3,7 +3,7 @@ icon: fa-solid fa-address-card
 order: 5
 ---
 
-### Guild Leadership 
+### Current Leadership
 
 | Rank                 	     | Name          | Responsibilities |
 | :--------------------------- | :--------------- | :------ |
