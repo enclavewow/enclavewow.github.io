@@ -24,7 +24,7 @@ Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the na
 
 ![Thunder](/images/thunder.jpg){: width="120" height="120" .left}
 
-**Thunder** is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
+**Thunder** (he/him) is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
 
 &nbsp;
 
@@ -36,16 +36,16 @@ Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the na
 
 ![Kimberly](/images/kimberly.jpg){: width="120" height="120" .left}
 
-**Kimberly**, a founding member of our guild, sees herself as the guild’s mommy, a role she embraces wholeheartedly. She is fascinated with classic WoW, especially Seasons of Mastery, and is always ready to share her knowledge and nostalgia. Kimberly also delights the guild with her culinary creations, frequently posting pictures that tantalize the taste buds.
+**Kimberly** (she/they), a founding member of our guild, sees herself as the guild’s mommy, a role she embraces wholeheartedly. She is fascinated with classic WoW, especially Seasons of Mastery, and is always ready to share her knowledge and nostalgia. Kimberly also delights the guild with her culinary creations, frequently posting pictures that tantalize the taste buds.
 
 &nbsp;
 
 ![Baalyn](/images/baalyn.jpg){: width="120" height="120" .left}
 
-**Baalyn**, a professional chef and our guild's culinary consultant, can make anyone hungry with just a conversation. He's claimed a permanent spot in our Discord's AFK channel, where he’s virtually always available. Having joined us during phase 3, Baalyn has quickly become a steadfast member, adding both flavour and laughter to our guild life.
+**Baalyn** (he/him), a professional chef and our guild's culinary consultant, can make anyone hungry with just a conversation. He's claimed a permanent spot in our Discord's AFK channel, where he’s virtually always available. Having joined us during phase 3, Baalyn has quickly become a steadfast member, adding both flavour and laughter to our guild life.
 
 &nbsp;
 
 ![Anmorata](/images/anmo.jpg){: width="120" height="120" .left}
 
-**Anmorata**, also known as Daddy Momo, plays a big, strong tank and is the newest officer of our guild. His skills at tanking are legendary—rumor has it he once took down the Lich King in a most unconventional setting. With his funny, caring, and charismatic nature, Anmorata is set to lead our raids starting in the Cataclysm expansion and is a cherished member of our community.
+**Anmorata** (he/him), also known as Daddy Momo, plays a big, strong tank and is the newest officer of our guild. His skills at tanking are legendary — rumour has it he once took down the Lich King in a most unconventional setting. With his funny, caring, and charismatic nature, Anmorata is set to lead our raids starting in the Cataclysm expansion and is a cherished member of our community.
