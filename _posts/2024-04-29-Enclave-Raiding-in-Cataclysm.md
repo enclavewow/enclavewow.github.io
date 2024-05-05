@@ -15,6 +15,11 @@ mermaid: true
 > Did you know? In Cataclysm, raid locks for 10-player and 25-player encounters are **shared**, with the same loot tables for all the bosses. 
 {: .prompt-info }
 
+## Raid Times 
+
+Wednesday: 7:30-10:30pm ST (server time)
+Thursday: 7:30-10:30pm ST (server time
+
 ## Raid Team Leadership
 
 As we near May 20th (launching of Cataclysm Classic), more positions may be added. 
