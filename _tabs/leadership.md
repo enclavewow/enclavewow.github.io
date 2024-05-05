@@ -25,7 +25,7 @@ order: 5
 &nbsp;
 
 
-![Thunder](/images/thunder.jpg){: width="120" height="120" .w+20 .right}
+![Thunder](/images/thunder.jpg){: width="120" height="120" .right}
 
 Thunder is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
 
