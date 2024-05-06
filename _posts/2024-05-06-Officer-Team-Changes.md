@@ -18,6 +18,6 @@ Thunder, known for his wit and vibrant presence is also stepping back from his o
 
 In light of these departures, I am happy to announce that Anmorata (Anmo) will be joining the officer team. Capable, charismatic, and approachable are just three of the many positive words to describe our newest officer. Since joining us in the early days of phase one, Anmo has proven himself as a dependable tank and a pillar of our community. As he takes the reins of our progression 25-player raid team, we're excited for the fresh energy and ideas he will bring to our leadership.
 
-As our guild continues to grow and evolve, we anticipate further adjustments to our officer team to best meet the changing needs and dynamics of our community. This is an exciting time of evolution and growth for us all.
+As our guild continues to grow and evolve, we may make further adjustments to our officer team to best meet the changing needs and dynamics of our community. This is an exciting time of evolution and growth for us all.
 
 Please join me in expressing your appreciation for Kimberly and Thunder, and in extending a warm welcome to Anmorata. However, since Anmo is on vacation, please direct your questions about raiding to Kerry in the interim.
