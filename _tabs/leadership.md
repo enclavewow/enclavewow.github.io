@@ -16,7 +16,7 @@ order: 5
 
 ### Meet Your Officers
 
-![Kerry](/images/kerry.jpg){: width="120" height="120" .left}
+![Kerry](/images/kerry.png){: width="120" height="120" .left}
 
 **Kerry** (they/them), our esteemed Guild Master, combines a passion for filet-o-fishes and all things Minions with a sharp wit fueled by goofy, punny jokes. As one of the longest-standing members of the guild, Kerry advocates fervently for an inclusive gaming community, one where gamers can find solace that their unique, wonderful self is celebrated. 
 
