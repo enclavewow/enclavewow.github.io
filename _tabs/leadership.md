@@ -9,10 +9,10 @@ order: 5
 | :--------------------------- | :--------------- | :------ |
 | Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
 | Officer                | Thunder    | Guild Bank |
-| Officer               | Clinic    | Role Lead & Strategy |
+| Officer               | Clinic    | Raid Lead (Wrath), Role Lead & Strategy |
 | Officer               | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
-| Officer (incoming)              | Anmorata    | Raid Lead |
+| Officer (incoming)              | Anmorata    | Raid Lead (Cataclysm)|
 
 ### Meet Your Officers
 
