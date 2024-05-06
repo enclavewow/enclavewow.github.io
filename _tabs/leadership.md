@@ -12,7 +12,7 @@ order: 5
 | Officer               | Clinic    | Raid Lead (Wrath), Role Lead & Strategy |
 | Officer               | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
-| Officer (incoming)              | Anmorata    | Raid Lead (Cataclysm)|
+| Officer              | Anmorata    | Raid Lead (Cataclysm)|
 
 ### Meet Your Officers
 
