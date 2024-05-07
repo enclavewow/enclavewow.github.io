@@ -40,7 +40,7 @@ order: 5
 
 &nbsp;
 
-![Baalyn](/images/baalyn.jpg){: width="120" height="120" .left}
+![Baalyn](/images/baalyn.png){: width="120" height="120" .left}
 
 **Baalyn** (he/him), a professional chef and our guild's culinary consultant, can make anyone hungry with just a conversation. He's claimed a permanent spot in our Discord's AFK channel, where he’s virtually always available. Having joined us during phase 3, Baalyn has quickly become a steadfast member, adding both flavour and laughter to our guild life.
 
