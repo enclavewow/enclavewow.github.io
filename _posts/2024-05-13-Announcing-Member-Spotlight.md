@@ -1,5 +1,5 @@
 ---
-title: Announcing Member Spotlight
+title: Announcing Member Spotlights
 description: Learn about our new community initiative - member spotlights!
 authors: [kerrykins]
 date: 2024-05-13 00:00:00 -0500
