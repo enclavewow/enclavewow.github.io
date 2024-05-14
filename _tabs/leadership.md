@@ -9,7 +9,7 @@ order: 5
 | :--------------------------- | :--------------- | :------ |
 | Guild Master          | Kerry     | Recruitment, Raid Lead, Community |
 | Officer                | Thunder    | Guild Bank |
-| Officer               | Clinic    | Raid Lead (Wrath), Role Lead & Strategy |
+| Officer               | [Clinic](https://enclavewow.github.io/posts/clinic-member-spotlight/)    | Raid Lead (Wrath), Role Lead & Strategy |
 | Officer               | Kimberly    | Loot Master |
 | Officer               | Baalyn    | Community Engagement, Communications |
 | Officer              | Anmorata    | Raid Lead (Cataclysm)|
