@@ -21,8 +21,7 @@ What's a fun fact about you or a quote that you really enjoy?
 What's the most unusual food you love to eat?
 : Just about anything Indian cuisine
 
-![Clinic Tiger](/images/clinic3.jpg){: width="225" height="487" .left}
-_Test_
+![Clinic Tiger](/images/clinic3.jpg){: width="200" height="433" .right}
 
 What's your most treasured possession and the story behind it?
 : Idk if it's MOST treasured, but I have a derpy stuffed tiger that I won at a school carnival as a kid by winning bingo in 7 calls. He is the source of my good luck, and he doesn't really have a name. Ironically, I also didn't ever get the Zulian Tiger. Go figure.
