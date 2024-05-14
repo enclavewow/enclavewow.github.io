@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-people-group
-order: 6
+order: 5
 ---
 
 Meet **Clinic** (he/him)! He's a pioneer member of the guild, joining our little family in September 2022. Known for his encyclopedic knowledge of the game, it makes him the go-to person for any game-related questions. 
