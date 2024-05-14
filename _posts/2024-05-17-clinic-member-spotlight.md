@@ -24,13 +24,13 @@ What's the most unusual food you love to eat?
 If you could travel anywhere in the world, where would you go and what would you do there?
 : New Zealand or Switzerland for the 𝓢𝓒𝓔𝓝𝓔𝓡𝓨 
 
+![Clinic Tiger](/images/clinic3.jpg){: width="300" height="650" .left}
+
+What's your most treasured possession and the story behind it?
+: Idk if it's MOST treasured, but I have a derpy stuffed tiger that I won at a school carnival as a kid by winning bingo in 7 calls. He is the source of my good luck, and he doesn't really have a name. Ironically, I also didn't ever get the Zulian Tiger. Go figure.
+
 What’s something you’re proud of that not many people know about?
 : TBH joining this guild and gaining more of an open mind on LGBT stuff. Not that I was close-minded, I just didn't really give it all much thought.
 
 If you could instantly become an expert in one non-gaming hobby, what would it be?
 : Video editing
-
-![Clinic Tiger](/images/clinic3.jpg){: width="100" height="217" .left}
-
-What's your most treasured possession and the story behind it?
-: Idk if it's MOST treasured, but I have a derpy stuffed tiger that I won at a school carnival as a kid by winning bingo in 7 calls. He is the source of my good luck, and he doesn't really have a name. Ironically, I also didn't ever get the Zulian Tiger. Go figure.
