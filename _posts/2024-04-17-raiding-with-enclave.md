@@ -34,6 +34,10 @@ mermaid: true
 | Raid Lead    | Anmorata, Kerry |
 | Loot Master       | Kindroth  |
 
+## Unnamed 10-player Raid Team
+
+**Unnamed 10-player Raid Team** is a *[semi-hardcore](https://enclavewow.github.io/posts/raidtype/#semi-hardcore)* 10-player progression raid team in the guild. It runs on Sunday evening. The raid lead is **Clinic**. 
+
 
 ## Inactive Raid Teams
 
