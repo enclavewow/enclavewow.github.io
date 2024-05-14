@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-address-card
-order: 3
+order: 2
 ---
 
 ### Current Leadership
