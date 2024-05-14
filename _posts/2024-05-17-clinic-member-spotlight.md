@@ -30,7 +30,7 @@ What’s something you’re proud of that not many people know about?
 If you could instantly become an expert in one non-gaming hobby, what would it be?
 : Video editing
 
-![Clinic Tiger](/images/clinic3.jpg){: width="584" height="1265" .left}
+![Clinic Tiger](/images/clinic3.jpg){: width="100" height="217" .left}
 
 What's your most treasured possession and the story behind it?
 : Idk if it's MOST treasured, but I have a derpy stuffed tiger that I won at a school carnival as a kid by winning bingo in 7 calls. He is the source of my good luck, and he doesn't really have a name. Ironically, I also didn't ever get the Zulian Tiger. Go figure.
