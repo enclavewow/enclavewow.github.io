@@ -15,7 +15,7 @@ _A Wild Clinic in his natural habitat..._
 
 **Clinic** (he/him), a pioneer member of the guild, joined us in September 2022. His encyclopedic knowledge of the game makes him the go-to person for any game-related questions. Known for his random facts and questions, Clinic keeps every conversation lively. A pioneer member of our guild, Clinic can level up a character from start to level cap in just two days.
 
-![Clinic Tiger](/images/clinic3.jpg){: .left}
+![Clinic Tiger](/images/clinic3.jpg){: .w-50 .left}
 
 What do you do for work out of the game?
 : I was a dental assistant for a long time, come to think of it I started dental assisting right around the time Cataclysm first came out. Work changes compounded with the pandemic had me step away from that in 2020 and I've been doing social media for indie games since then with the occasional voiceover gig.
