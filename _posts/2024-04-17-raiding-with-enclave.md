@@ -27,11 +27,12 @@ mermaid: true
 | Icecrown Citadel     | 11/12 (heroic), 12/12 (normal)   |
 | Ruby Sanctum      | 1/1 (normal)   |
 
-#### Raid Leaders
+### Raid Leaders
 
 | Role            | Name         |
 | :--------------------------- | :--------------- |
 | Raid Lead    | Anmorata, Kerry |
+| Strategy & DPS Role Lead       | Clinic  |
 | Loot Master       | Kindroth  |
 
 ## Unnamed 10-player Raid Team
@@ -43,7 +44,7 @@ mermaid: true
 
 ### Bare Ass Rockets (ICC 10)
 
-**Bare Ass Rockets** is a *[semi-casual](https://enclavewow.github.io/posts/raidtype/#semi-casual)* 10-player progression raid team in the guild. It runs on Mondays 7:30-10:30pm ST. The raid leader is **Grovin*. 
+**Bare Ass Rockets** is a *[semi-casual](https://enclavewow.github.io/posts/raidtype/#semi-casual)* 10-player progression raid team in the guild. It runs on Mondays 7:30-10:30pm ST. The raid leader is **Grovin**. 
 
 #### Progression Status (BAR)
 
