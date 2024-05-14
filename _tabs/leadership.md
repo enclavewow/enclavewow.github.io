@@ -30,7 +30,7 @@ order: 5
 
 ![Clinic](/images/clinic.png){: width="120" height="120" .left}
 
-**Clinic** (he/him) is a talented voice actor whose dramatic flair enriches every guild raid. His encyclopedic knowledge of the game makes him the go-to person for any game-related questions. Known for his random facts and questions, Clinic keeps every conversation lively. A pioneer member of our guild, Clinic can level up a character from start to level cap in just two days.
+**Clinic** (he/him) is a talented voice actor whose dramatic flair enriches every guild raid. His encyclopedic knowledge of the game makes him the go-to person for any game-related questions. Known for his random facts and questions, Clinic keeps every conversation lively. A pioneer member of our guild, Clinic can level up a character from start to level cap in just two days. [Clinic's member spotlight](https://enclavewow.github.io/posts/clinic-member-spotlight/).
 
 &nbsp;
 
