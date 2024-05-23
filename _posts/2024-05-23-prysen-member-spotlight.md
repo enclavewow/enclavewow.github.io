@@ -2,7 +2,7 @@
 title: Member Spotlight - Prysen
 description: Learn about Prysen!
 authors: [kerrykins]
-date: 2024-05-27 00:00:00 -0500
+date: 2024-05-23 00:00:00 -0500
 categories: [Spotlight]
 tags: [spotlight,prysen]
 pin: false
@@ -11,6 +11,8 @@ mermaid: true
 ---
 
 Meet **Prysen** (he/him)! He joined our little family in May 2023. 
+
+![Prysen](/images/prysen.png){: width="350" height="350" .right}
 
 What do you do for work out of the game?
 : I now work for HEB, which is a Texas based grocery store, as a deli manager. 
