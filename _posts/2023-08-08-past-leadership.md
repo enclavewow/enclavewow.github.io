@@ -30,3 +30,18 @@ We acknowledge and thank individuals involved in the guild's leadership in the p
 | Kindroth             | Officer    |
 | Sellestra             | Officer    |
 | Bunny             | Officer    |
+
+
+#### Past Officer Bios
+
+![Thunder](/images/thunder.png){: width="120" height="120" .left}
+
+**Thunder** (he/him) is a funny, sarcastic, and mood-lifting choir teacher who teaches the nation's next generation in his real-life job. As our residential healing powerhouse, he loves gaming with his partner and friends, and is known for taking many detours when leveling, much to his guildies' amusement and frustration. Thunder is one of our guild's oldest members, having been with us since its earliest days.
+
+&nbsp;
+
+![Kimberly](/images/kimberly.jpg){: width="120" height="120" .left}
+
+**Kimberly** (she/they), a founding member of our guild, sees herself as the guild’s mommy, a role she embraces wholeheartedly. She is fascinated with classic WoW, especially Seasons of Mastery, and is always ready to share her knowledge and nostalgia. Kimberly also delights the guild with her culinary creations, frequently posting pictures that tantalize the taste buds.
+
+&nbsp;
