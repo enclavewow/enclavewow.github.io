@@ -30,6 +30,8 @@ We acknowledge and thank individuals involved in the guild's leadership in the p
 | Kindroth             | Officer    |
 | Sellestra             | Officer    |
 | Bunny             | Officer    |
+| Thunder             | Officer    |
+| Kimberly             | Officer    |
 
 
 #### Past Officer Bios
