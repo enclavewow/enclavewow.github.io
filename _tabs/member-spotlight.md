@@ -20,9 +20,6 @@ What's your most treasured possession and the story behind it?
 If you could travel anywhere in the world, where would you go and what would you do there?
 : If I could travel anywhere in the world I would want to go to Australia to scuba dive on the great barrier reef. Also to see a kangaroo cause they're cool.
 
-What's your most treasured possession and the story behind it?
-: Idk if it's MOST treasured, but I have a derpy stuffed tiger that I won at a school carnival as a kid by winning bingo in 7 calls. He is the source of my good luck, and he doesn't really have a name. Ironically, I also didn't ever get the Zulian Tiger. Go figure.
-
 What's the most unusual food you love to eat?
 : The most unusual food I enjoy is probably Alligator. Usually you find it on a stick and fried at like Ren Fair.
 
