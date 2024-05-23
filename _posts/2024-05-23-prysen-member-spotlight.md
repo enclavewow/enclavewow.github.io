@@ -10,9 +10,9 @@ math: true
 mermaid: true
 ---
 
-Meet **Prysen** (he/him)! He joined our little family in May 2023. 
-
 ![Prysen](/images/prysen.png){: width="350" height="350" .right}
+
+Meet **Prysen** (he/him)! He joined our little family in May 2023. 
 
 What do you do for work out of the game?
 : I now work for HEB, which is a Texas based grocery store, as a deli manager. 
