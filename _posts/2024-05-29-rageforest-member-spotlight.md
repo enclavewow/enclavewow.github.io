@@ -10,7 +10,9 @@ math: true
 mermaid: true
 ---
 
-Meet **Rageforest** (he/him)! 
+Meet **Rageforest** (he/him)! Rage joined us from <The Zug Awakens> in June of 2023!
+
+![Rageforest](/images/rageforest.png){: width="350" height="350" .right}
 
 What do you do for work out of the game?
 : I work for a contracting company that supports the network capabilities of a federal government agency. I help with the set up and implementation of network equipment (routers, switches, etc.) to support whatever needs the sites require. I do travel to different sites occasionally, but I work from home and will Teams or Webex with boots on the ground. Working from home allows me to have some WoW time when the workload is light 😊.
