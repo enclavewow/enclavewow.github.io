@@ -3,28 +3,27 @@ icon: fa-solid fa-people-group
 order: 5
 ---
 
-![Prysen](/images/prysen.png){: width="350" height="350" .right}
+Meet **Rageforest** (he/him)! Rage joined us from <The Zug Awakens> in June of 2023!
 
-Meet **Prysen** (he/him)! He joined our little family in May 2023. 
+![Rageforest](/images/rageforest.png){: width="350" height="350" .right}
 
 What do you do for work out of the game?
-: I now work for HEB, which is a Texas based grocery store, as a deli manager. 
+: I work for a contracting company that supports the network capabilities of a federal government agency. I help with the set up and implementation of network equipment (routers, switches, etc.) to support whatever needs the sites require. I do travel to different sites occasionally, but I work from home and will Teams or Webex with boots on the ground. Working from home allows me to have some WoW time when the workload is light 😊.
 
 What's a fun fact about you or a quote that you really enjoy?
-: A fun fact about me is that I once played in the world series of poker. I didnt get very far but I play poker regularly and that was quite a fun experience. One quote that I really enjoy is from Ralph Waldo Emerson
-"What you do speaks so loudly that I cannot hear what you say." I think it's a great reminder that our actions define us to others more so than our words.
+: Why do it today when you can put it off to tomorrow.
 
-What's your most treasured possession and the story behind it?
-: My most treasured possession is an Autographed football from the 98 Denver Broncos championship team. My mom worked on an insurance fraud case involving one of the players and the Broncos was my dads favorite football team. So when they won the championship my mom asked the player if he could get a football  signed by the players and gifted to our dad for Christmas one year. When he passed away my family decided I should have it as football was something  he and I would watch and bond over more so than any of my other brothers.
+What's your go-to karaoke song and why? 
+: Pink Floyd “Wish You Were Here” I had a good friend that I would sing karaoke with that passed away. So, I dedicate this song to him whenever I sing it.
 
-If you could travel anywhere in the world, where would you go and what would you do there?
-: If I could travel anywhere in the world I would want to go to Australia to scuba dive on the great barrier reef. Also to see a kangaroo cause they're cool.
+What’s a hidden talent or party trick you can do? 
+: I used to have a great party trick where I drank copious amounts of hard alcohol and then passed out in a compromising position, but my liver notified me that I should use moderation. Now I get high on life.
 
-What's the most unusual food you love to eat?
-: The most unusual food I enjoy is probably Alligator. Usually you find it on a stick and fried at like Ren Fair.
+What’s the best piece of advice you’ve ever received? 
+: Opinions are like assholes. Everybody has one and they all stink! Words to live by.
 
-What hobby would you get into if time and money weren’t an issue?
-: The hobby I would want to get into is comic book collecting. I love reading comics and watching comic book movies. Whether its MCU or animated movies. So collecting the books that those stories are based on would be cool. And just owning a part of that history is fun.
+What's your go-to comfort food? Why is it  your comfort food? 
+: Macaroni and Cheese. Pasta and gooey cheese are the ultimate comfort food. The only problem is that I would want to eat a whole pan all by myself. I just remember eating this as a kid and it became my favorite ever since.
 
-If you could instantly become an expert in one non-gaming hobby, what would it be?
-: If I could become an expert in a non gaming hobby it would be writing computer code.
+What hobby would you get into if time and money weren’t an issue? 
+: I would become a pilot and fly around all over the world. There is lots of stuff that you can only see with an airplane.
