@@ -3,7 +3,7 @@ icon: fa-solid fa-people-group
 order: 5
 ---
 
-Meet **Rageforest** (he/him)! Rage joined us from <The Zug Awakens> in June of 2023!
+Meet **Rageforest** (he/him)! Rage joined us in June 2023!
 
 ![Rageforest](/images/rageforest.png){: width="350" height="350" .right}
 
