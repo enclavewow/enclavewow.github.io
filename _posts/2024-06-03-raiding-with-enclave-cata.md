@@ -2,7 +2,7 @@
 title: Raiding with Enclave (Cata)
 description: Learn more about our raids in the guild (Cata)!
 authors: [kerrykins]
-date: 2024-06-05 00:00:00 -0500
+date: 2024-06-03 00:00:00 -0500
 categories: [Cata]
 tags: [raiding,rsm]
 pin: false
