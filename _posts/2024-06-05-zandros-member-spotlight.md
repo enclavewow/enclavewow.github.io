@@ -24,3 +24,12 @@ What's the most unusual food you love to eat?
 What’s a hidden talent or party trick you can do?
 : Pretty simple talent i guess but I have met very few people that have been able to do it actually. I can fold my tongue back and have it stick like a suction cup for really as long as I want to.
 
+If you could instantly become an expert in one non-gaming hobby, what would it be? 
+: Surfing, I used to live along the coast and went like once to try and surf. Even though I did not ever successfully ride a wave, I still had a lot of fun and would love to go more often.
+
+What's your go-to comfort food? Why is it  your comfort food?
+: Simple answer: Nachos. And really not all that picky when it come to them either. I can deal with them like ballpark style with the plastic cheese or the grate my own cheese and melt it on the oven kind.
+
+Which movie or TV show character do you relate to the most, and why?
+: Once again not to much deliberation on the answer. My wife on a constant reminds of how much I am like Squidward from Spongebob. Which, as life has gone on I can't say I disagree.
+
