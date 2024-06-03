@@ -1,6 +1,6 @@
 ---
-title: EPGP Information
-description: Learn more about the loot system we use!
+title: EPGP Information (Wrath)
+description: Learn more about the loot system we use in Wrath!
 authors: [kerrykins, kimberly]
 date: 2024-04-05 00:00:00 -0500
 categories: [Wrath]
@@ -10,7 +10,7 @@ math: true
 mermaid: true
 ---
 
-> This post applies to the loot system used by the [Ready Set Minions raid team](https://enclavewow.github.io/posts/raiding-with-enclave/#ready-set-minions-rsm). 
+> This post applies to the loot system used by the [Ready Set Minions raid team](https://enclavewow.github.io/posts/raiding-with-enclave/#ready-set-minions-rsm) in **Wrath**.  
 {: .prompt-info }
 
 ### What is it?
