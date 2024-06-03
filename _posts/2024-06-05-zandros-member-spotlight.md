@@ -21,3 +21,6 @@ What's a fun fact about you or a quote that you really enjoy?
 What's the most unusual food you love to eat?
 : I would say the least normal thing that I love to eat is a grilled ham& cheese with ketchup as the dipping sauce. Back story of why was I saw it done on the move Bruce Almighty and I was like Imma try that, and its been that way ever since.
 
+What’s a hidden talent or party trick you can do?
+: Pretty simple talent i guess but I have met very few people that have been able to do it actually. I can fold my tongue back and have it stick like a suction cup for really as long as I want to.
+
