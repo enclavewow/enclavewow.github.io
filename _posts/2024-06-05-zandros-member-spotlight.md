@@ -2,7 +2,7 @@
 title: Member Spotlight - Zandros
 description: Learn about Zandros!
 authors: [kerrykins]
-date: 2024-06-05 00:00:00 -0500
+date: 2024-06-07 00:00:00 -0500
 categories: [Spotlight]
 tags: [spotlight,zandros]
 pin: false
