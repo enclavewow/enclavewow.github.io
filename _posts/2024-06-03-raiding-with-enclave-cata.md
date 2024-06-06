@@ -27,7 +27,7 @@ mermaid: true
 | Role            | Name         |
 | :--------------------------- | :--------------- |
 | Raid Lead    | Anmorata, Kerry |
-| Strategy & DPS Role Lead       | Clinic  |
+| Raid Strategy       | Clinic  |
 | Loot Master       | Kindroth  |
 
 ## Unnamed 10-player Raid Team

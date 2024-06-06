@@ -15,13 +15,13 @@ mermaid: true
 
 ### BiS Lists
 
-As part of our EPGP loot system in Ready Set Minions (Cataclysm), we require all rostered raiders to submit their BiS list. In order to click the **BiS** button in CLM, you must have submitted a BiS list to **Kindroth**, the loot master. You can only hit the **BiS** button if the item matches the item on your BiS list. 
+As part of our [EPGP loot system](https://enclavewow.github.io/posts/epgp-cata/) in Ready Set Minions (Cataclysm), we require all rostered raiders to submit their BiS list. In order to click the **BiS** button in CLM, you must have submitted a BiS list to **Kindroth**, the loot master. You can only hit the **BiS** button if the item matches the item on your BiS list. 
 
 Hitting BiS will automatically prioritise your bid above every other type of bid. You will only be competing with others that hit the BiS button. 
 
 ### Submitting Your List 
 
-We require that you use **[Sixty Upgrades (Cataclysm](https://sixtyupgrades.com/cata/)** to submit your list to Kindroth. 
+We require that you use **[Sixty Upgrades (Cataclysm)](https://sixtyupgrades.com/cata/)** to submit your list to Kindroth. 
 
 Step 1
 : Register or sign in on the website

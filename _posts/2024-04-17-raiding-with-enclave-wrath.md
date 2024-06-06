@@ -46,7 +46,7 @@ RSM raiders are expected to abide by our [raider expectations](https://enclavewo
 - Have an open mind to provide *and* receive constructive feedback to and from, respectively, their fellow raiders
 
 ### Loot System
-We use the [EPGP loot system](https://enclavewow.github.io/posts/epgp/) in RSM. All information is available, fully for transparency, to rostered raiders. 
+We use the [EPGP loot system](https://enclavewow.github.io/posts/epgp-wrath/) in RSM. All information is available, fully for transparency, to rostered raiders. 
 
 ### Rotating Bench
 
