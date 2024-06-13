@@ -21,9 +21,9 @@ mermaid: true
 
 | Raid               | Progression Status         |
 | :--------------------------- | :--------------- |
-| Blackwing Descent | |
+| Blackwing Descent | 6/6 (N) |
 | Throne of the Four Winds | 2/2 (N) |
-| The Bastion of Twilight | |
+| The Bastion of Twilight | 4/4 (N) |
 
 ### Raid Leaders
 
