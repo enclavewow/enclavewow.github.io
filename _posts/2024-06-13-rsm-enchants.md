@@ -1,6 +1,6 @@
 ---
-title: RSM 
-description: Learn about Zandros!
+title: RSM Malestrom Enchants
+description: New temporarily policy on BiS enchants
 authors: [kerrykins,anmorata]
 date: 2024-06-13 00:00:00 -0500
 categories: [Cata]
