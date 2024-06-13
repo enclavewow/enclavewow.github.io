@@ -27,7 +27,7 @@ If you meet the requirement above (ilvl 372 BiS weapon), you must contact either
 
 Clicking the OS button in raid means that gear is used for your off-spec. When you take a piece of gear for OS, know that you may be called to fill a spot in a raid or dungeon group down the road. Loot history from RSM are pubicly available to all RSM raiders. 
 
-For classes that can fill more than two roles (e.g., paladins, druids), you should only be rolling OS gear for one of the two remaining roles. If you are a retribution paladin, for instance, __do not take tank **and** healing gear__ as your OS. Choose one. If we find that you've done so, we will charge MS gear points on your OS gear. 
+For classes that can fill more than two roles (e.g., paladins, druids), you should only be rolling OS gear for one of the two remaining roles. If you are a retribution paladin, for instance, _do not take tank **and** healing gear_ as your OS. Choose one. If we find that you've done so, we will charge MS gear points on your OS gear. 
 
 More importantly, raiders should not be clicking OS for transmog reasons. If you want an **uncontested** piece of gear for transmog reasons, Anmorata and Kerry will be expecting you to give us **TWO (2)** Malestrom Crystals before next week's raid. You can decide whether the look is worth the price. Gold will not be accepted - it must be the crystals. 
 
