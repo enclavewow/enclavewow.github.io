@@ -33,7 +33,7 @@ Step 2
 : Create a character. Choose a **horde** character. Choose **your class**. It does not matter what race. 
 
 ![BiSListStep2](/images/bislist2.png)
-_Step 1: Creating your character_
+_Step 2: Creating your character_
 
 > When you create your character, a prompt may pop up saying they've found a live character. It **does not matter** what you choose; choose whichever. 
 {: .prompt-info }

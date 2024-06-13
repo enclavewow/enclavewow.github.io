@@ -3,27 +3,27 @@ icon: fa-solid fa-people-group
 order: 5
 ---
 
-Meet **Rageforest** (he/him)! Rage joined us in June 2023!
+Meet **Zandros** (he/him)! Zandros, along with most of our officers, is one of our longest-standing members in the guild. He joined us in October 2022. 
 
-![Rageforest](/images/rageforest.png){: width="350" height="350" .right}
+![Zandros](/images/zandros.png){: width="350" height="350" .right}
 
-What do you do for work out of the game?
-: I work for a contracting company that supports the network capabilities of a federal government agency. I help with the set up and implementation of network equipment (routers, switches, etc.) to support whatever needs the sites require. I do travel to different sites occasionally, but I work from home and will Teams or Webex with boots on the ground. Working from home allows me to have some WoW time when the workload is light 😊.
+What do you do for work irl?
+:  I work for a high-end furniture warehouse. It most certainly is not the most glamorous job in the world but it most certainly is the easiest.
 
 What's a fun fact about you or a quote that you really enjoy?
-: Why do it today when you can put it off to tomorrow.
+: A fun fact about me that not everyone knows apparently is I have four children. And that I did not forget how they were made lol
 
-What's your go-to karaoke song and why? 
-: Pink Floyd “Wish You Were Here” I had a good friend that I would sing karaoke with that passed away. So, I dedicate this song to him whenever I sing it.
+What's the most unusual food you love to eat?
+: I would say the least normal thing that I love to eat is a grilled ham& cheese with ketchup as the dipping sauce. Back story of why was I saw it done on the move Bruce Almighty and I was like Imma try that, and its been that way ever since.
 
-What’s a hidden talent or party trick you can do? 
-: I used to have a great party trick where I drank copious amounts of hard alcohol and then passed out in a compromising position, but my liver notified me that I should use moderation. Now I get high on life.
+What’s a hidden talent or party trick you can do?
+: Pretty simple talent i guess but I have met very few people that have been able to do it actually. I can fold my tongue back and have it stick like a suction cup for really as long as I want to.
 
-What’s the best piece of advice you’ve ever received? 
-: Opinions are like assholes. Everybody has one and they all stink! Words to live by.
+If you could instantly become an expert in one non-gaming hobby, what would it be? 
+: Surfing, I used to live along the coast and went like once to try and surf. Even though I did not ever successfully ride a wave, I still had a lot of fun and would love to go more often.
 
-What's your go-to comfort food? Why is it  your comfort food? 
-: Macaroni and Cheese. Pasta and gooey cheese are the ultimate comfort food. The only problem is that I would want to eat a whole pan all by myself. I just remember eating this as a kid and it became my favorite ever since.
+What's your go-to comfort food? Why is it  your comfort food?
+: Simple answer: Nachos. And really not all that picky when it come to them either. I can deal with them like ballpark style with the plastic cheese or the grate my own cheese and melt it on the oven kind.
 
-What hobby would you get into if time and money weren’t an issue? 
-: I would become a pilot and fly around all over the world. There is lots of stuff that you can only see with an airplane.
+Which movie or TV show character do you relate to the most, and why?
+: Once again not to much deliberation on the answer. My wife on a constant reminds of how much I am like Squidward from Spongebob. Which, as life has gone on I can't say I disagree.
