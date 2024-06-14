@@ -15,7 +15,7 @@ Meet **Chase (Godkek)** (he/him)!
 ![Chase](/images/chase.jpg){: width="350" height="350" .right}
 
 What do you do for work irl?
-:  Currently i have nothing as far as work goes... However my pops and I have our own Upholstery business in which we pick up work when available.
+: Currently i have nothing as far as work goes... However my pops and I have our own Upholstery business in which we pick up work when available.
 
 What's a fun fact about you or a quote that you really enjoy?
 : A fun fact about me is that I was once a semi pro in E sports.
