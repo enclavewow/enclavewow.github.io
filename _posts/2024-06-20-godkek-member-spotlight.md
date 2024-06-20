@@ -21,7 +21,7 @@ What's a fun fact about you or a quote that you really enjoy?
 : A fun fact about me is that I was once a semi pro in E sports.
 
 Which movie or TV show character do you relate to the most, and why?
-: I would say the least normal thing that I love to eat is a grilled ham& cheese with ketchup as the dipping sauce. Back story of why was I saw it done on the move Bruce Almighty and I was like Imma try that, and its been that way ever since.
+: I would have to say that a character that I relate the most to is Dean from supernatural because he always makes the most of shitty situations and cracks jokes when they are needed.
 
 What’s a hidden talent or party trick you can do?
 : A cool party/bar trick I can do is open a beer with my thumb.
