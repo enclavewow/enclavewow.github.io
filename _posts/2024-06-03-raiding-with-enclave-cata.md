@@ -23,7 +23,7 @@ mermaid: true
 | :--------------------------- | :--------------- |
 | Blackwing Descent | 6/6 (N) |
 | Throne of the Four Winds | 2/2 (N) |
-| The Bastion of Twilight | 4/4 (N) |
+| The Bastion of Twilight | 4/4 (N), 1/4 (H) |
 
 ### Raid Leaders
 
