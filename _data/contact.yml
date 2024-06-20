@@ -10,9 +10,9 @@
    icon: "fa-brands fa-discord"
    url:  'https://discord.gg/Ems3HPs7Kt'
 
--  type: googlesheets
-   icon: "fa-solid fa-file-lines"
-   url:  'https://docs.google.com/spreadsheets/d/1yruogyNokee0M023ooX0PPxb2-KDJNWCthTRRJjhK_4/edit#gid=737946275'
+-  # type: googlesheets
+   # icon: "fa-solid fa-file-lines"
+   # url:  'https://docs.google.com/spreadsheets/d/1yruogyNokee0M023ooX0PPxb2-KDJNWCthTRRJjhK_4/edit#gid=737946275'
 
 - # type: rss
   # icon: "fas fa-rss"
