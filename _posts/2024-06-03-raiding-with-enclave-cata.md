@@ -39,9 +39,9 @@ Loot Master: Kindroth, Kerry
 
 | Raid               | Progression Status         |
 | :--------------------------- | :--------------- |
-| Blackwing Descent | 6/6 (N) |
+| Blackwing Descent | 6/6 (N), 1/6 (H) |
 | Throne of the Four Winds | 2/2 (N) |
-| The Bastion of Twilight | 4/4 (N) | 
+| The Bastion of Twilight | 4/4 (N), 2/4 (H) | 
 
 ## Unnamed 10-player Raid Team
 
