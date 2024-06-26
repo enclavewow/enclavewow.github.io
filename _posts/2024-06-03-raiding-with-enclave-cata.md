@@ -21,17 +21,15 @@ mermaid: true
 
 | Raid               | Progression Status         |
 | :--------------------------- | :--------------- |
-| Blackwing Descent | 6/6 (N) |
+| Blackwing Descent | 6/6 (N), 1/6 (H)|
 | Throne of the Four Winds | 2/2 (N) |
 | The Bastion of Twilight | 4/4 (N), 1/4 (H) |
 
 ### Raid Leaders
 
-| Role            | Name         |
-| :--------------------------- | :--------------- |
-| Raid Lead    | Anmorata, Kerry |
-| Raid Strategy       | Clinic  |
-| Loot Master       | Kindroth  |
+Raid Lead(s): Anmorata, Kerry 
+Raid Strategy: Anmorata, Clinic
+Loot Master: Kindroth, Kerry
 
 ## Sunday With Clonc (SwC)
 
@@ -52,3 +50,4 @@ mermaid: true
 ## Unnamed 10-player Raid Team
 
 **Unnamed 10-player Raid Team** is a *[semi-hardcore](https://enclavewow.github.io/posts/raidtype/#semi-hardcore)* 10-player progression raid team in the guild. It runs on Saturday evenings. The raid lead is **Kindroth**. 
+
