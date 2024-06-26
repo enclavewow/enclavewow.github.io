@@ -26,9 +26,6 @@ Officers in **Enclave** are integral members who volunteer their time to keep th
 - Members
 - Initiates
 
-> Guardian rank will be introduced with the new expansion. 
-{: .prompt-info }
-
 ### Alts
 
 We understand that you pay for your subscription and we respect your freedom to manage your alternate characters as you see fit. Sometimes, the spirit of our raids and guild activities may not always align with everyone's preferences, or you may wish to spend time gaming with other friends. Ultimately, your enjoyment of the game is paramount.
