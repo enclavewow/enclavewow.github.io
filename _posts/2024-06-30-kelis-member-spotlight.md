@@ -14,7 +14,8 @@ Meet **Kelis** (she/her)! Kelis formally joined the guild late 2023. However, fo
 
 ![Kelis](/images/kelis.jpg){: width="350" .right}
 
-> Hi I'm Kelis, known IRL as Stacy.  I live in Missouri with my partner Krystal and our upstairs neighbor Dustin (who I've actually had longer than Krystal).  I just celebrated my 42nd birthday last month (the meaning of life the universe and everything), and I've lived here since I came for college about 25 years ago. 
+About Kelis:
+: Hi I'm Kelis, known IRL as Stacy.  I live in Missouri with my partner Krystal and our upstairs neighbor Dustin (who I've actually had longer than Krystal).  I just celebrated my 42nd birthday last month (the meaning of life the universe and everything), and I've lived here since I came for college about 25 years ago. 
 
 What do you do for work irl?
 : I work for the university here, and have for the last 21 years. It's nice because I frequently have down time where I can play games or read.   
