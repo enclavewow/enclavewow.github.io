@@ -3,32 +3,63 @@ icon: fa-solid fa-people-group
 order: 5
 ---
 
-Meet **Kelis** (she/her)! Kelis formally joined the guild late 2023. However, for our members that have been here for a while, Kelis is a name you might've seen around our guild long before that. Kelis is a long-time friend of the guild prior, often joining us for fun raids. Since formally joining, she's been a lovely part of our community. 
+Meet **Thunder** (he/him)! Thunder is currently one of the longest-standing members, joining the guild in July 2022. This month marks his two year anniversary in the guild. Thunder has had an engaging role within the guild, taking on the responsibilities as an officer from December 2022 to May 2024. You'll often see him online levelling another alt or raiding on his spare time!
 
-![Kelis](/images/kelis.jpg){: width="350" .right}
+![Thunder](/images/Thunder.jpg){: width="350" .right}
 
-About Kelis:
-: Hi I'm Kelis, known IRL as Stacy.  I live in Missouri with my partner Krystal and our upstairs neighbor Dustin (who I've actually had longer than Krystal).  I just celebrated my 42nd birthday last month (the meaning of life the universe and everything), and I've lived here since I came for college about 25 years ago. 
+About Thunder:
+: My name is Harlan Mapp. I'm the head choir director at Warren Central High School in Vicksburg, MS. I teach music to kids and try to make them care about more than their phones.
 
-What do you do for work irl?
-: I work for the university here, and have for the last 21 years. It's nice because I frequently have down time where I can play games or read.   
+What's your go-to karaoke song and why?
+: Um... I don't have a go-to song, but I'm pretty solid on anything by Elton John
 
-What's a fun fact about you or a quote that you really enjoy?
-: I can fix just about anything.  I'm the person all my friends call when they need a broken thing fixed (or a swimming pool installed).   I also catch all frogs, lizards, snakes and turtles. My degree is in fisheries and wildlife and my favorite was always Herps.  If I'm driving and there is a turtle in need of rescue, you can bet I'm braking. 
+What's the most unusual food you love to eat?
+: I'm American... what's unsual??? 
 
-If you could have dinner with any fictional character, who would it be and why? 
-: I'd have a hard time choosing between Granny Weatherwax and Nanny Ogg from Discworld.  I just think they'd be a riot to sit around and chat with, plus getting all the Granny advice.  
+What's the last book you read or movie you watched that you really loved?
+: I didn't read it but I audio'd it. The Lord of the Rings trilogy. Always.
 
-If you could travel anywhere in the world, where would you go and what would you do there? 
-: I'd go to Costa Rica.  I'd love to visit the cloud forest, look at all the frogs, and see sloths!  Plus, sea turtle nesting grounds, bioluminescent oceans, and jungles.  
+If you could have dinner with any fictional character, who would it be and why?
+: Gimli. Hands down. Raw meat off the bone!
 
-If you could switch lives with any animal for a day, which would you choose and why? 
-: I think I'd pick a whale.  I'm not very good at water in my natural form (knee injury from rugby) so it would be nice to be able to dive down and enjoy the ocean.  Plus, I could do all the fancy whale singing.
+What’s your favourite silly or punny joke?
+" ... none of yours
 
-What's one cause or issue you are passionate about? 
-: I really wish we had universal healthcare here.  I can't figure out how we missed the boat on that one (I mean, logically, i know, but stupid).  I don't think that anyone should lose their house/car/job because of medical bills, or even worse just not get the care they need because they can't afford it.  We deserve better.  
+Describe your perfect day off. What do you do from morning to night?
+: Literally wake up and play video games. Only. Drink coffee, use the bathroom, and game. 
 
-What’s the best piece of advice you’ve ever received?  
-: Life ain't fair - my dad.
+If you could switch lives with any animal for a day, which would you choose and why?
+: Probably elephant. O wonder what it must be like to have something dangle that long.
 
-: A hobby i would get into were money not an issue is fixing up cars that i think could have a second chance and/or are cool
+What’s a hidden talent or party trick you can do?
+: I don't go to parties. 
+
+What’s the best piece of advice you’ve ever received?
+: Never look a monkey in the eye. Tim the Toolman Taylor on Home Improvement. It has no bearing in life but that's the quote I always use on my students. 
+
+What's one cause or issue you are passionate about?
+: Music education. 
+
+If you could travel anywhere in the world, where would you go and what would you do there?
+: I'd go back to Norway and eat. Everything. 
+
+What's your most treasured possession and the story behind it?
+: Blanket my grandmother made as a child. It's basically falling apart so it's kept safe. That's probably the most sacred thing... I think?
+
+What are three items you’d take with you to a deserted island?
+: Flint/steel, hatchet, metal pan. 
+
+What’s something you’re proud of that not many people know about?
+: I work tirelessly day and night to improve the musical literacy of my students to ensure they aren't incompetent musicians.
+
+What's your go-to comfort food? Why is it  your comfort food?
+: Does Whataburger count? because I'm a fatass. But also, anything that Cody cooks. 
+
+What hobby would you get into if time and money weren’t an issue?
+: Pottery
+
+Which movie or TV show character do you relate to the most, and why?
+: I don't? But I would like to think it could be Jack Baurer from the TV show 24.  LOL
+
+If you could instantly become an expert in one non-gaming hobby, what would it be?
+: Carpentry

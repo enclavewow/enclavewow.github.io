@@ -2,7 +2,7 @@
 title: Member Spotlight - Thunder
 description: Learn about Thunder!
 authors: [kerrykins]
-date: 2024-07-10 00:00:00 -0500
+date: 2024-07-15 00:00:00 -0500
 categories: [Spotlight]
 tags: [spotlight,thunder]
 pin: false
@@ -10,7 +10,7 @@ math: true
 mermaid: true
 ---
 
-Meet **Thunder** (he/him)! 
+Meet **Thunder** (he/him)! Thunder is currently one of the longest-standing members, joining the guild in July 2022. This month marks his two year anniversary in the guild. Thunder has had an engaging role within the guild, taking on the responsibilities as an officer from December 2022 to May 2024. You'll often see him online levelling another alt or raiding on his spare time!
 
 ![Thunder](/images/Thunder.jpg){: width="350" .right}
 
