@@ -5,7 +5,7 @@ order: 5
 
 Meet **Thunder** (he/him)! Thunder is currently one of the longest-standing members, joining the guild in July 2022. This month marks his two year anniversary in the guild. Thunder has had an engaging role within the guild, taking on the responsibilities as an officer from December 2022 to May 2024. You'll often see him online levelling another alt or raiding on his spare time!
 
-![Thunder](/images/Thunder.jpg){: width="350" .right}
+![Thunder](/images/thunder.jpg){: width="350" .right}
 
 About Thunder:
 : My name is Harlan Mapp. I'm the head choir director at Warren Central High School in Vicksburg, MS. I teach music to kids and try to make them care about more than their phones.
