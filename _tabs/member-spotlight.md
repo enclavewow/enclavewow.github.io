@@ -23,7 +23,7 @@ If you could have dinner with any fictional character, who would it be and why?
 : Gimli. Hands down. Raw meat off the bone!
 
 What’s your favourite silly or punny joke?
-" ... none of yours
+: " ... none of yours
 
 Describe your perfect day off. What do you do from morning to night?
 : Literally wake up and play video games. Only. Drink coffee, use the bathroom, and game. 
